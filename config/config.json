@@ -1,0 +1,10 @@
+{
+  "db": {
+    "host": "localhost",
+    "port": 5433,
+    "instance": "accounts_db",
+    "user_name": "vmuser",
+    "user_password": "vmuser"
+  },
+  "listen_port": 3001
+}
