@@ -1,10 +1,10 @@
 {
   "db": {
-    "host": "localhost",
+    "host": "accounts-db.123456789012.eu-central-1a.rds.amazonaws.com",
     "port": 5433,
-    "instance": "accounts_db",
-    "user_name": "vmuser",
-    "user_password": "vmuser"
+    "instance": "accounts",
+    "user_name": "acc_db_master",
+    "user_password": "BGQXBc9qQF5i"
   },
   "listen_port": 3001
 }
